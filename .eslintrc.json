@@ -43,6 +43,7 @@
     "jsx-a11y/label-has-associated-control": "off",
     "no-param-reassign": "off",
     "@typescript-eslint/no-explicit-any": "off",
+    "jsx-a11y/anchor-is-valid": "off",
     "react/jsx-filename-extension": [
       1,
       {
